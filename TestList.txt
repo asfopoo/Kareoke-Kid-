@@ -1,2 +1,2 @@
 [{"id":"1","song":"this"},{"id":"2","song":"list"},{"id":"3","song":"is"},
-{"id":"4","song":"searchable"},{"id":"5","song":"Nardo"}{"hopefully"}{"this"}{"is"}{"too"}]
+{"id":"4","song":"searchable"},{"id":"5","song":"Nardo"}][{"hopefully"}{"this"}{"is"}{"too"}]
